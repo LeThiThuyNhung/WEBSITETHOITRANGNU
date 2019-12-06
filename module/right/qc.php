@@ -1,0 +1,1 @@
+<ul><a href="https://vietteltelecom.vn/tin-tuc/chi-tiet/ung-dung-my-viettel-vuot-moc-4-trieu-luot-cai-dat/59193560"><img src="admin/module/quanlysanpham/image/qc.png" width="263" height="350"/></a></ul>

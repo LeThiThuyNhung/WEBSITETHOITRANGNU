@@ -1,0 +1,144 @@
+@charset "utf-8";
+/* CSS Document */
+.left_content{
+	width:196px;
+	float:left;
+	height:1000px;
+}
+.title_box{
+	width:196px;
+	height:60px;
+	background:#F30 no-repeat center;
+	margin:0px 0 0 0;
+	text-align:center;
+	font-size:13px;
+	font-weight:bold;
+	color:#3F0;
+	line-height:30px;
+	border-radius: 5px 5px 5px 5px;
+}
+
+.title_box a{
+	text-decoration:none;
+}
+
+.content .menucap1{
+	display:none;
+	position:absolute;
+}
+
+.content .menucap1 li{
+	border:1px solid #000;
+	text-transform:none;
+	width:auto;
+	z-index:2;
+}
+
+.content .left_content li:hover .menucap1 {
+	display:block;
+	margin-top:-35px;
+}
+
+.content .left_content .menucap1{
+	display:none;
+	position:absolute;
+	margin:10px 12px 0px 50px;
+}
+
+.content .left_content .menucap1 li{
+	background-color:#FFF;
+	border:1px solid #FFF;
+	text-transform:none;
+	width:170px;
+	float:left;
+	top:5px;
+	left:150px;
+}
+
+.title_box li{
+	margin:0px 0px 0px -40px;
+	list-style:none;
+	width:196px;
+	float:right;
+	position:relative;
+	text-align:left;
+	background:#FFF;
+	border-bottom:1px inset;
+}
+
+.title_box li a{
+	text-decoration:none;
+}
+
+.title_box li a:hover{
+	color:#F00;
+	background-color:#F00;
+}
+
+.content .left_content .menucap1 li a{
+	text-decoration:none;
+}
+
+.title_box2{
+	width:196px;
+	height:120px;
+	background:#F30 no-repeat center;
+	margin:30px 0 0 0;
+	text-align:center;
+	font-size:13px;
+	font-weight:bold;
+	color:#3F0;
+	line-height:30px;
+	border-radius: 10px 10px 10px 10px;
+}
+
+.title_box2 a{
+	text-decoration:none;
+}
+
+.product_image{
+	margin:0px 0 0 0;
+}
+
+.title_box4{
+	width:auto;
+	height:30px;
+	background:#F30 no-repeat center;
+	margin:630px 0 0 0;
+	text-align:center;
+	font-size:13px;
+	font-weight:bold;
+	color:#3F0;
+	line-height:30px;
+	border-radius: 5px 5px 5px 5px;
+}
+
+.title_box4 a{
+	text-decoration:none;
+}
+
+.title_box4 li a:hover{
+	color:#F00;
+}
+
+.sao {
+	float:left;
+	margin-top:-8px;
+}
+
+.title_box2 .pro_details_tab{
+	width:180px;
+	height:31px;
+	float:left;
+	margin-bottom:10px;
+	display:inline;
+	background:#FC9;
+}
+
+.title_box2 .product_price{
+	margin-top:-10px;
+}
+
+
+
+

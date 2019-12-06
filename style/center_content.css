@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+.center_content{
+	width:600px;
+	float:left;
+}
+
+.slider{
+	width:600px;
+	margin-top:-52px;
+	overflow:hidden;
+}
+
+.slide{
+	width:600px;
+	height:300px;
+}
+
+.prev{
+	font-size:40px;
+	padding-left:20px;
+	text-transform:uppercase;
+	position:absolute;
+	top:350px;
+	z-index:1;
+}
+
+.next{
+	font-size:40px;
+	padding-left:20px;
+	text-transform:uppercase;
+	margin-left:530px;
+	top:350px;
+	position:absolute;
+	z-index:1;
+}
+.center_title_bar{
+	width:560px;
+	height:33px;
+	float:left;
+	padding:0 0 0 40px;
+	line-height:33px;
+	font-weight:bold;
+	background:#F00;
+	border-radius:5px 5px 5px 5px;
+}
+
+.pro_box{
+	width:600px;
+	height:auto;
+	float:right;
+}
+
+.pro_box ul{
+	list-style:none;
+}
+
+.pro_box ul li{
+	float:left;
+	text-decoration:none;
+	display:inline;
+	margin-left:10px;
+	
+}
+
+.pro_box ul li a{
+	text-decoration:none;
+}
+
+.pro_box ul li a p{
+	width:120px;
+	height:30px;
+	text-align:center;
+}
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+.footer{
+	width:1100px;
+	height:100px;
+}
+.left_footer{
+	float:left;
+	width:300px;
+	padding:5px 0 0 10px;
+	color:#00F;
+	text-align:center;
+	margin-top:40px;
+}
+.right_footer{
+	float:right;
+	padding:15px 30px 0 0;
+	margin-top:40px;
+}
+.center_footer{
+	float:left;
+	width:400px;
+	text-align:center;
+	color:#00F;
+	padding:10px 0 0 60px;
+	margin-top:40px;
+}
+.right_footer a{
+	text-decoration:none;
+	padding:0 0 0 7px;
+	color:#00C;
+}
+.right_footer a:hover{
+	text-decoration:underline;
+}
+
+.title_box1 a{
+	text-decoration:none;
+}
+
+.title_box3 a{
+	text-decoration:none;
+}
+
